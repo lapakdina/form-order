@@ -1,6 +1,6 @@
 <?php
 if($_POST['kirim']){
-	$admin = 'fatoni.pino@gmail.com'; //ganti email dg email admin (email penerima pesan)
+	$admin = 'yohanes2000.ladin@blogger.com'; )
 	
 	$nama	= htmlentities($_POST['nama']);
 	$email	= htmlentities($_POST['email']);
