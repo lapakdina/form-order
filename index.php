@@ -6,8 +6,7 @@
 <body>
  
 	<h1>Contact Form Email</h1>
-	<p>Demo ini dibuat dan di upload oleh <a href="http://tutorialweb.net/" target="_blank">tutorialweb.net</a></p>
-	
+		
 	<form action="kirim.php" method="post">
 		<p><input type="text" name="nama" placeholder="Nama anda" size="30" required /></p>
 		<p><input type="email" name="email" placeholder="Email valid" size="30" required /></p>
